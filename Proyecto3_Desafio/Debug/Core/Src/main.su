@@ -1,0 +1,14 @@
+../Core/Src/main.c:95:5:main	16	static
+../Core/Src/main.c:164:6:SystemClock_Config	88	static
+../Core/Src/main.c:211:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:279:6:inicio	8	static
+../Core/Src/main.c:289:6:Funcionencendertodos	4	static
+../Core/Src/main.c:293:6:Funcionapagartodos	4	static
+../Core/Src/main.c:297:6:apagarA	16	static
+../Core/Src/main.c:317:6:apagarB	16	static
+../Core/Src/main.c:337:6:encenderA	16	static
+../Core/Src/main.c:357:6:encenderB	16	static
+../Core/Src/main.c:377:12:avanzarA	24	static
+../Core/Src/main.c:384:12:avanzarB	24	static
+../Core/Src/main.c:391:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/main.c:422:6:Error_Handler	4	static,ignoring_inline_asm

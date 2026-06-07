@@ -1,0 +1,14 @@
+../Core/Src/main.c:95:5:main	5
+../Core/Src/main.c:164:6:SystemClock_Config	3
+../Core/Src/main.c:211:13:MX_GPIO_Init	1
+../Core/Src/main.c:279:6:inicio	1
+../Core/Src/main.c:289:6:Funcionencendertodos	1
+../Core/Src/main.c:293:6:Funcionapagartodos	1
+../Core/Src/main.c:297:6:apagarA	5
+../Core/Src/main.c:317:6:apagarB	5
+../Core/Src/main.c:337:6:encenderA	5
+../Core/Src/main.c:357:6:encenderB	5
+../Core/Src/main.c:377:12:avanzarA	1
+../Core/Src/main.c:384:12:avanzarB	1
+../Core/Src/main.c:391:6:HAL_GPIO_EXTI_Callback	8
+../Core/Src/main.c:422:6:Error_Handler	1
