@@ -1,0 +1,14 @@
+../Core/Src/main.c:78:5:main	7
+../Core/Src/main.c:150:6:SystemClock_Config	3
+../Core/Src/main.c:197:13:MX_GPIO_Init	1
+../Core/Src/main.c:233:6:CambiarRojoVerde	3
+../Core/Src/main.c:250:6:CambiarVerdeRojo	5
+../Core/Src/main.c:277:6:CambiarAntiVerde	3
+../Core/Src/main.c:293:6:CambiarAntiRojo	5
+../Core/Src/main.c:320:6:VerificarPedido	4
+../Core/Src/main.c:336:6:VerificarPedido2	4
+../Core/Src/main.c:352:6:VerificarPedido3	4
+../Core/Src/main.c:370:6:CambiarVelocidad	4
+../Core/Src/main.c:382:6:CambiarModo	4
+../Core/Src/main.c:393:6:Parpadeo	4
+../Core/Src/main.c:424:6:Error_Handler	1

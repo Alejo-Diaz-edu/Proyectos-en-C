@@ -1,0 +1,14 @@
+../Core/Src/main.c:78:5:main	8	static
+../Core/Src/main.c:150:6:SystemClock_Config	88	static
+../Core/Src/main.c:197:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:233:6:CambiarRojoVerde	8	static
+../Core/Src/main.c:250:6:CambiarVerdeRojo	8	static
+../Core/Src/main.c:277:6:CambiarAntiVerde	8	static
+../Core/Src/main.c:293:6:CambiarAntiRojo	8	static
+../Core/Src/main.c:320:6:VerificarPedido	16	static
+../Core/Src/main.c:336:6:VerificarPedido2	16	static
+../Core/Src/main.c:352:6:VerificarPedido3	16	static
+../Core/Src/main.c:370:6:CambiarVelocidad	4	static
+../Core/Src/main.c:382:6:CambiarModo	4	static
+../Core/Src/main.c:393:6:Parpadeo	8	static
+../Core/Src/main.c:424:6:Error_Handler	4	static,ignoring_inline_asm
